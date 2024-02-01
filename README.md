@@ -24,7 +24,7 @@ These instructions will help you set up and run the FoodiePal app on your local 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/foodiepal.git
+   git clone https://github.com/oyinlolaa/foodiepal.git
    cd foodiepal
 
 ### Run the App
