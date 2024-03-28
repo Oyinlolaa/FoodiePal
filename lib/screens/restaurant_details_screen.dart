@@ -178,7 +178,7 @@ class _RestaurantDetailsScreenState extends State<RestaurantDetailsScreen> {
             SizedBox(height: 16.0),
             ElevatedButton(
               onPressed: () {
-                // Add logic to submit the review
+                
               },
               style: ElevatedButton.styleFrom(
                 primary: Colors.orange,
