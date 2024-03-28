@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'login_screen.dart'; // Import the login screen to navigate back
-
+import 'login_screen.dart'; 
 class SignUpScreen extends StatelessWidget {
   final TextEditingController firstNameController = TextEditingController();
   final TextEditingController lastNameController = TextEditingController();
@@ -88,8 +87,7 @@ class SignUpScreen extends StatelessWidget {
               SizedBox(height: 32.0),
               ElevatedButton(
                 onPressed: () {
-                  // Perform signup logic here
-                  // Navigate back to the login screen
+                
                   Navigator.pushReplacement(
                     context,
                     MaterialPageRoute(
